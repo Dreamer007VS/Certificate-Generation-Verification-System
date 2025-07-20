@@ -1,1 +1,1 @@
-# Certificate-Generation-Verification-System
+# DBMS-Mini-Project
