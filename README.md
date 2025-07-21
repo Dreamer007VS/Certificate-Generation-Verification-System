@@ -35,9 +35,9 @@ The **Certificate Generation and Verification System (CGV)** streamlines the end
 | Tools Used    | SendGrid API, DataTables, Tawk.to chat |
 
 ---
-# 🎓 Certificate Generation & Verification System - Screenshots Gallery
+# 🎓 Certificate Generation & Verification System - Screenshots
 
-## 📋 System Overview
+## 📋 Overview
 A comprehensive Certificate Generation and Verification System that provides secure certificate creation, distribution, and verification capabilities with multiple user roles and administrative controls.
 
 ---
